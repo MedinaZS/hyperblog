@@ -9,6 +9,7 @@ Un blog increible para el curso de [Git y Github de Platzi](https://platzi.com/c
 - Consejos y trucos de Freddy 🔥
 - Hecho por el increíble equipo de Platzi 💚
 - Incluye ejemplos de Windows, Linux y Mac 💻
+- Para todo el mundo 🌎
 
 ## Advertencia ⚠️
 Este README es un **chiste**. Fue diseñado como un ejemplo. **No te lo tomes en serio.** 😋
