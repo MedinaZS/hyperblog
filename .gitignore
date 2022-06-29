@@ -1,1 +1,2 @@
+#Para ignorar y no subir los archivos que sean jpg a git (ni a github)
 *.jpg
