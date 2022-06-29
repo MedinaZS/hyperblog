@@ -11,6 +11,7 @@ Un blog increible para el curso de [Git y Github de Platzi](https://platzi.com/c
 - Incluye ejemplos de Windows, Linux y Mac 💻
 - Para todo el mundo 🌎
 - Muchas horas de práctica ⏰
+- Disponible para todas las edades 💡
 
 ## Advertencia ⚠️
 Este README es un **chiste**. Fue diseñado como un ejemplo. **No te lo tomes en serio.** 😋
